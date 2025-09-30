@@ -40,7 +40,7 @@ To set up and run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/COVID-19-Streamlit-Dashboard.git](https://github.com/YOUR_USERNAME/COVID-19-Streamlit-Dashboard.git)
+    git clone https://github.com/Nwokike/COVID-19-Streamlit-Dashboard/
     ```
 
 2.  **Navigate to the project directory:**
@@ -58,5 +58,4 @@ To set up and run this project locally, follow these steps:
     streamlit run app.py
     ```
 The application will open in your default web browser.
-
 ````
